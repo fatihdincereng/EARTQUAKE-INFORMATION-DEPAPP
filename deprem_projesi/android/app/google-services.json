@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "289023169102",
+    "project_id": "deppapp-d1727",
+    "storage_bucket": "deppapp-d1727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289023169102:android:5fd3d26045270bfe70a91f",
+        "android_client_info": {
+          "package_name": "com.example.deprem_projesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289023169102-0crpprkogrnlmrd9sb1m93q8vg1l6rnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deprem_projesi",
+            "certificate_hash": "4ba8b5db292d299396d6195a777c6acd36404354"
+          }
+        },
+        {
+          "client_id": "289023169102-j5v6kgoiehdhmdgp8npq5bdp3if6ud22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD9nX2iJy59NSOXTdjU3ORF-YSS62n994"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289023169102-j5v6kgoiehdhmdgp8npq5bdp3if6ud22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

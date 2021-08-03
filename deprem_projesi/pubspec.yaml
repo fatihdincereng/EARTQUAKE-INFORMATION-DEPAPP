@@ -1,0 +1,50 @@
+name: deprem_projesi
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  audioplayers: ^0.16.2
+  flutter_launcher_icons: ^0.8.1
+  path_provider: ^1.6.24
+  cupertino_icons: ^1.0.0
+  http: ^0.12.2
+  url_launcher: ^5.7.10
+  google_maps_flutter: ^2.0.1
+  carousel_slider: ^2.3.1
+  flutter_rating_bar: ^3.0.1+1
+  json_serializable: 3.5.1
+  flutter_svg: ^0.17.1
+  location: ^3.0.2
+  geolocator: ^5.3.1
+  provider: ^4.0.4
+  firebase_messaging: ^7.0.3
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/depremc.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/audios/
+    - assets/icons/
+    - assets/img/
+    - assets/lang/en.json
+    - assets/lang/tr.json
+    - assets/images/
