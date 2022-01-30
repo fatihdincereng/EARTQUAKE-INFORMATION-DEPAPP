@@ -1,5 +1,6 @@
 # EARTQUAKE-INFORMATION-DEPAPP
-İçindekiler: 
+### Uludağ Üniversitesi IEEE AICT 2021 Konferansına Katılım Hakkı Kazanmış Bitirme Projem
+## İçindekiler: 
 
 Güvenli alan
 
