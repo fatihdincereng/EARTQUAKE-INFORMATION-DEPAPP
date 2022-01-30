@@ -1,5 +1,5 @@
 # EARTQUAKE-INFORMATION-DEPAPP
-İçindekiler:
+İçindekiler: 
 
 Güvenli alan
 
