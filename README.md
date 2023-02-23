@@ -1,6 +1,6 @@
 # EARTQUAKE-INFORMATION-DEPAPP
 ### My Graduation Project which has earned the right to participate in Uludağ University IEEE AICT 2021 Conference
-https://ieeexplore.ieee.org/document/9628969
+https://ieeexplore.ieee.org/document/9628969 
 
 
 ## Contents: 
